@@ -1,5 +1,13 @@
 # @ts-safeql/eslint-plugin
 
+## 2.0.1
+
+### Patch Changes
+
+- 895c4dc: select from subselect with alias should not throw internal error
+- Updated dependencies [895c4dc]
+  - @ts-safeql/generate@1.0.1
+
 ## 2.0.0
 
 ### Major Changes

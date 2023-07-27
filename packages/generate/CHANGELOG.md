@@ -1,5 +1,11 @@
 # @ts-safeql/generate
 
+## 1.0.1
+
+### Patch Changes
+
+- 895c4dc: select from subselect with alias should not throw internal error
+
 ## 1.0.0
 
 ### Major Changes
